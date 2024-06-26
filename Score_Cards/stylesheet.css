@@ -16,4 +16,18 @@
 table {
 	margin: 100px auto 0px auto;
 	font-size: 20px;
+	border: 1px solid #191970;
 }
+thead {
+	background-color: #89CFF0;
+	
+}
+tbody{
+	background-color: #ADD8E6;
+	
+}
+th, td{
+	background-color: #ADD8E6;
+	
+}
+
