@@ -29,4 +29,8 @@ th, td{
 	border: 1px solid #191970;
 	padding: 6px 10px;
 }
-
+th:hover,
+td:hover{
+	background-color: gray;
+	transition: 0.3s;
+}
