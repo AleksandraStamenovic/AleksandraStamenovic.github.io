@@ -8,5 +8,7 @@
 }
 h1 + div.steps{
         margin: 150px;
-	
+}
+h1{
+        text-align: center;
 }
