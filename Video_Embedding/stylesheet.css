@@ -6,9 +6,13 @@
 	top: 20px;
 	left: 10px;
 }
-h1 + div.steps{
-        margin: 150px;
-}
 h1{
-        text-align: center;
+        margin-top: 150px;
+	text-align: center;
+	display: inline-block;
+}
+div.steps{
+       	width: 80%;
+	margin: 0 auto;
+	text-align: center;
 }
