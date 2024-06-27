@@ -14,9 +14,8 @@
 	background-color: burlywood;
 }
 h1{
-        margin-top: 150px;
-	text-align: center;
-	display: inline-block;
+        margin: 150px auto 0 auto;
+	display: block;
 }
 .steps{
        	width: 80%;
