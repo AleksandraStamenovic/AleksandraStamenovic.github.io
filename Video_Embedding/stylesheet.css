@@ -6,3 +6,7 @@
 	top: 20px;
 	left: 10px;
 }
+h1 + div.steps{
+        margin: 150px;
+	
+}
