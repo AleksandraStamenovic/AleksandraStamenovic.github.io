@@ -12,9 +12,9 @@ body{
 .navigation a {
 	text-decoration-line: none;
 	font-size: 35px;
-	color: black;
+	color: #FFF4F2;
 	border: solid black;
-	background-color: burlywood;
+	background-color: #F33A6A;
 }
 h1{
         margin: 150px auto 0 auto;
