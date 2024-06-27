@@ -1,7 +1,6 @@
 body{
         background-color: #FFF4F2;
 }
-
 .navigation {
         position: fixed;
 	width: 100%;
@@ -21,7 +20,7 @@ h1{
         margin: 150px auto 0 auto;
 	display: block;
 	text-align: center;
-	color: #FAA0A0;
+	color: #F33A6A;
 }
 .steps{
        	width: 80%;
