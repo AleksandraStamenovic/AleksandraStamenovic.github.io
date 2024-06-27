@@ -41,7 +41,3 @@ p{
 .steps img{
        	width: 100%;
 }
-h2::before {
-      content: !;
-      font-size: 30px;
-}
