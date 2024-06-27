@@ -1,3 +1,7 @@
+body{
+        background-color: #FFF4F2;
+}
+
 .navigation {
         position: fixed;
 	width: 100%;
