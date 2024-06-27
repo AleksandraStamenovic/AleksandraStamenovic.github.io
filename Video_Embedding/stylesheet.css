@@ -16,6 +16,8 @@
 h1{
         margin: 150px auto 0 auto;
 	display: block;
+	text-align: center;
+	color: #FAA0A0;
 }
 .steps{
        	width: 80%;
