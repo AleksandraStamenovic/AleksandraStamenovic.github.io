@@ -45,7 +45,22 @@
 	width: fit-content;
 	background-image: linear-gradient(to right-bottom, blue, white);
 }
-.seagull img{
+.butterfly{
+	width: fit-content;
+	filter: opacity(75%);
+	-webkit-filter: opacity(75%);
+	border-top-left-radius: 100px;
+	border-bottom-right-radius: 100px;
+	overflow: hidden;
+}
+.butterfly img{
+	filter: invert(100%);
+	-webkit-filter: invert(100%);
+}
+.theater{
+	width: fit-content;
+}
+.theater img{
 }
 
 
