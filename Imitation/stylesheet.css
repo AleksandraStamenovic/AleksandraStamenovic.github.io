@@ -16,6 +16,8 @@
 .penguin{
 	border: 1px solid black;
 	border-radius: 50%;
+	width: fit-content;
+	overflow: hidden;
 }
 .penguin img{
 	filter: sepia(50%);
