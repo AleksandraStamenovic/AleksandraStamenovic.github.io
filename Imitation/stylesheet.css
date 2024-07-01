@@ -41,3 +41,11 @@
 	filter: drop-shadow(5px 5px 5px #000000);
 	-webkit-filter: drop-shadow(5px 5px 5px #000000);
 }
+.seagull{
+	width: fit-content;
+	background-image: linear-gradient(to right-bottom, blue, white)
+}
+.seagull img{
+	background-image:
+}
+
