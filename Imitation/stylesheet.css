@@ -23,7 +23,7 @@
 	filter: sepia(50%);
 	-webkit-filter: sepia(50%);
 }
-.field{
+.field img{
 	filter: gray-scale(100%);
 	border: 25px solid black;
 	border-image: url(images/tic-tac-toe.png) 25 repeat;
