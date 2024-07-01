@@ -43,7 +43,7 @@
 }
 .seagull{
 	width: fit-content;
-	background-image: linear-gradient(to right-bottom, blue, white);
+	background-image: linear-gradient(to bottom right, blue, white);
 }
 .butterfly{
 	width: fit-content;
