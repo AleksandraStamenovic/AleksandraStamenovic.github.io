@@ -61,6 +61,8 @@
 	width: fit-content;
 }
 .theater img{
+	filter: blur(3px);
+	-webkit-filter: blur(3px);
 }
 .theater h2{
 	color: white;
