@@ -13,3 +13,6 @@
 	border: solid black;
 	background-color: burlywood;
 }
+.penguin img{
+	filter: saturate(50%);
+}
