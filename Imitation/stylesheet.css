@@ -37,5 +37,5 @@
 }
 .dinosaur img{
 	filter: hue-rotate(90deg);
-	-webkit-filter: drop-shadow(-5px -5px 5px #000000);
+	-webkit-filter: drop-shadow(5px 5px 5px #000000);
 }
