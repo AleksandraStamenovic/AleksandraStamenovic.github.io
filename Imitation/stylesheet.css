@@ -13,13 +13,13 @@
 	border: solid black;
 	background-color: burlywood;
 }
-.penguin{
+.penguins{
 	border: 1px solid black;
 	border-radius: 50%;
 	width: fit-content;
 	overflow: hidden;
 }
-.penguin img{
+.penguins img{
 	filter: sepia(50%);
 	-webkit-filter: sepia(50%);
 }
