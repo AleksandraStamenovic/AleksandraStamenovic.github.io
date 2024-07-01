@@ -27,8 +27,8 @@
 	width: fit-content;
 }
 .field img{
-	filter: gray-scale(100%);
-	-webkit-filter: gray-scale(100%);
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
 	border: 22px solid black;
 	border-image: url(images/tic-tac-toe.png) 50 repeat;
 }
