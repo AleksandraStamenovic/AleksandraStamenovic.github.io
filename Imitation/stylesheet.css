@@ -32,3 +32,10 @@
 	border: 22px solid black;
 	border-image: url(images/tic-tac-toe.png) 50 repeat;
 }
+.dinosaur{
+	width: fit-content;
+}
+.dinosaur img{
+	filter: hue-rotate(90deg);
+	-webkit-filter: drop-shadow(-5px -5px 5px #000000);
+}
