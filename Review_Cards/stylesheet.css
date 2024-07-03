@@ -17,7 +17,11 @@ body {
   background: #eee;
   font-family: 'Lily Script One';
 }
+h2{
+  font-size: 40px;
+	text-align: center;
 
+}
 .card {
   position: absolute;
   top: 50%;
