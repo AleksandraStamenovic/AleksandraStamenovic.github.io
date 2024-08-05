@@ -1,8 +1,9 @@
 body {
-        background-color: #FCB1A6;
+        background-color: #BBBBBB;
 }
 .welcome {
         margin: 200px auto 50px auto;
+        color: #FCB1A6;
 }
 .welcome span {
         font-family: "Satisfy", cursive;
