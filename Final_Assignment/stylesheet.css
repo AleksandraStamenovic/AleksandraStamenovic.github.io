@@ -1,6 +1,9 @@
 body {
         background-color: #FCB1A6;
+}
+.welcome {
         font-family: "Satisfy", cursive;
         font-weight: 400;
         font-style: normal;
+        font-size: 100px;
 }
