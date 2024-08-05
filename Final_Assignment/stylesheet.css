@@ -14,7 +14,8 @@ body {
         font-weight: 400;
         font-style: normal;
         font-size: 200px;
+        line-height: 160px;
 }
 .welcome p {
-        font-size: 36px;
+        font-size: 26px;
 }
