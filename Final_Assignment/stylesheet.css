@@ -27,6 +27,9 @@ body {
 .nav-links ul {
         display: flex;
 }
+.nav-links ul li{
+        list-style-type: none;
+}
 .nav-links a {
         color: #F5F5F5;
         text-decoration: none;
