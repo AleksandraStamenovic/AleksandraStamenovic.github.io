@@ -19,3 +19,8 @@ body {
 .welcome p {
         font-size: 26px;
 }
+.navigation {
+        background-color: #5D2A42;
+        color: #F5F5F5;
+        display: flex;
+}
