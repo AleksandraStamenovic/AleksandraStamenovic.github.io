@@ -26,6 +26,9 @@ body {
         display: flex;
         justify-content: space-between;
 }
+.logo {
+        margin-left: 10px;
+}
 .nav-links ul {
         display: flex;
 }
