@@ -24,6 +24,7 @@ body {
         background-color: #5D2A42;
         color: #F5F5F5;
         display: flex;
+        justify-content: space-between;
 }
 .nav-links ul {
         display: flex;
