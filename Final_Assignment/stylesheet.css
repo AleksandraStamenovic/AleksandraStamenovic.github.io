@@ -24,6 +24,10 @@ body {
         color: #F5F5F5;
         display: flex;
 }
+.nav-links {
+        display: flex;
+}
 .nav-links a {
         color: #F5F5F5;
+        text-decoration: none;
 }
