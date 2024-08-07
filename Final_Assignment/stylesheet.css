@@ -25,6 +25,7 @@ body {
         color: #F5F5F5;
         display: flex;
         justify-content: space-between;
+        padding: 8px 20px;
 }
 .logo {
         margin-left: 10px;
