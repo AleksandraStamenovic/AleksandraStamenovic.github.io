@@ -71,6 +71,7 @@ body {
 }
 .content form input[type=text] {
         width: 100%;
+        padding: 4px 12px;
 }
 .content form textarea {
         width: 100%;
