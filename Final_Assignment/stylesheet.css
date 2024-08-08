@@ -41,3 +41,14 @@ body {
         color: #F5F5F5;
         text-decoration: none;
 }
+.content {
+        
+}
+.content h1 {
+        font-family: "Satisfy", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 200px;
+        line-height: 160px;
+        color: #FCB1A6;
+}
