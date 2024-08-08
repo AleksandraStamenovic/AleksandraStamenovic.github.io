@@ -59,6 +59,7 @@ body {
 }
 .content form div {
         width: 100%;
+        margin-bottom: 14px;
 }
 .content form input {
         width: 100%;
