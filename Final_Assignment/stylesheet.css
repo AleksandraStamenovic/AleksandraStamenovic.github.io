@@ -66,6 +66,8 @@ body {
 }
 .content form textarea {
         width: 100%;
+        resize: vertical;
+        min-height: 100px;
 }
 .content form div:nth-child(3) label:first-child {
         display: block;
