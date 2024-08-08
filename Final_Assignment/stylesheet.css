@@ -64,3 +64,10 @@ body {
 .content form input[type=text] {
         width: 100%;
 }
+.content form textarea {
+        width: 100%;
+}
+.content form div:nth-child(3) label:first-child {
+        display: block;
+}
+
