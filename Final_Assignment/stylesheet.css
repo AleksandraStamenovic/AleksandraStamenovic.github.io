@@ -70,4 +70,7 @@ body {
 .content form div:nth-child(3) label:first-child {
         display: block;
 }
-
+.content form input[type=submit] {
+        display: block;
+        margin: 0 auto;
+}
