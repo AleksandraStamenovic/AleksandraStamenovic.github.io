@@ -61,6 +61,6 @@ body {
         width: 100%;
         margin-bottom: 14px;
 }
-.content form input {
+.content form input[type=text] {
         width: 100%;
 }
