@@ -65,6 +65,7 @@ body {
 .content form label {
         margin-bottom: 8px;
         display: block;
+        color: #5D2A42;
 }
 .content form label.no-margin {
         margin-bottom: 0;
