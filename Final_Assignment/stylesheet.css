@@ -66,6 +66,7 @@ body {
 }
 .no-margin {
         margin-bottom: 0;
+        display: inline-block;
 }
 .content form input[type=text] {
         width: 100%;
