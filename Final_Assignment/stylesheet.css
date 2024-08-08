@@ -64,6 +64,7 @@ body {
 }
 .content form label {
         margin-bottom: 8px;
+        display: block;
 }
 .no-margin {
         margin-bottom: 0;
