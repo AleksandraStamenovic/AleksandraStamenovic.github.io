@@ -83,6 +83,10 @@ body {
         border: 1px solid #FCB1A6;
         padding: 8px 12px;
 }
+.content form input[type=text]:focus, 
+.content form textarea:focus {
+        border: 1px solid #5D2A42;
+}
 .content form div:nth-child(3) label:first-child {
         display: block;
 }
