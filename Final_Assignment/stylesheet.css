@@ -98,5 +98,10 @@ body {
         padding: 14px 28px;
         border: none;
         font-size: 20px;
+        transition: background-color 1s;
+}
+.content form input[type=submit]:hover {
+        background-color: #F5F5F5;
+        transition: background-color 1s;
 }
 
