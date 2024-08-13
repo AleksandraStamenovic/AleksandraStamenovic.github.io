@@ -5,6 +5,10 @@ body {
         font-style: normal;
         margin: 0px;
 }
+a {
+        color: #FCB1A6;
+        text-decoration: none;
+}
 .welcome {
         margin: 200px auto 50px auto;
         color: #FCB1A6;
