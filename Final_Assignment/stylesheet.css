@@ -67,6 +67,9 @@ body {
         margin: 0 auto;
         width: 50%;
 }
+.about table {
+        margin: 30px auto 80px auto;
+}
 .about td {
         padding: 6px 12px;
         text-align: center;
