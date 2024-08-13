@@ -83,6 +83,7 @@ body {
 .content form label.no-margin {
         margin-bottom: 0;
         display: inline-block;
+        color: #FCB1A6;
 }
 .content form input[type=text] {
         width: 100%;
