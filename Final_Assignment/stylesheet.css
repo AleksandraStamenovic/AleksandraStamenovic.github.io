@@ -9,6 +9,9 @@ a {
         color: #FCB1A6;
         text-decoration: none;
 }
+a:hover {
+        color: #5D2A42;
+}
 .welcome {
         margin: 200px auto 50px auto;
         color: #FCB1A6;
