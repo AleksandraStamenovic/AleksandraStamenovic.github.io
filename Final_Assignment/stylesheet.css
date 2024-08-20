@@ -107,6 +107,10 @@ a:hover {
         color: #FCB1A6;
         text-align: center;
 }
+.container.about-me p:last-of-type {
+        margin: 30px auto 80px auto;
+}
+
 
 /* --------------------------------------------------------- Contact ---------------------------------------------------------------------------------------------- */
 .content form {
